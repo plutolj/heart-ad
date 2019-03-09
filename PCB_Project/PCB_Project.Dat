@@ -1,0 +1,23 @@
+Field=Comment~String~Comment~100|Field=ComponentKind~Integer~ComponentKind~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\altium desiner project\ÐÄÂÊÑªÑõ¼ì²âÒÇ\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~11:21:30|ReportField=ReportDate~2019/1/17|ReportField=ReportDateTime~2019/1/17 11:21:30|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/1/17|ReportField=CurrentTime~10:27:24|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\altium desiner project\ÐÄÂÊÑªÑõ¼ì²âÒÇ\ÐÄÂÊÑªÑõ¼ì²âÒÇ1.SchDoc|ReportField=DocumentName~ÐÄÂÊÑªÑõ¼ì²âÒÇ1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/1/5|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\altium desiner project\ÐÄÂÊÑªÑõ¼ì²âÒÇ\PCB_Project\PCB_Project.PrjPcb
+self-1.8´ç|0||*1|self-1.8 - 1|self-1.8´ç|1
+CN1 Micro_USB|0||*2|SOT-223|CN1 Micro_USB|1
+Cap|0|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C10, C11, C12, C13, C14, C15, C17|0805C|Cap|15
+Cap Pol1|0|Polarized Capacitor (Radial)|C9|CAP6.5X6.5|Cap Pol1|1
+|0|Capacitor|C16|0805C|Cap|1
+LED0|0|Typical INFRARED GaAs LED|D1|LED_0805|LED0|1
+LED|0|Typical INFRARED GaAs LED|D2|LED_0805|LED0|1
+IN4148|0|Default Diode|D3|DO-213AA|Diode|1
+Header 4|0||P1|HDR1X4|Header 4|1
+2N3904|0|NPN General Purpose Amplifier|Q1|Èý¼«¹ÜSOT23|2N3904|1
+PNP|0|PNP General Purpose Amplifier|Q2|SOT-23|2N3906|1
+NPN|0|NPN General Purpose Amplifier|Q3|SOT-23|2N3904|1
+Res2|0|Resistor|R1, R2, R3, R4, R5, R7, R8, R9, R10, R11, R12, R13, R14, R16, R17, R18, R19|0805|Res2|17
+Res Semi|0|Semiconductor Resistor|R6|µç×è0805|Res Semi|1
+Res Adj1|0|Variable Resistor|R15|0805|Res Adj1|1
+SW-PB|0|Switch|S1, S2, S3, S4, S5|2½Å°´¼ü|SW-PB|5
+SW-SPDT|0|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S6|BTN8*8|SW-SPDT|1
+MAX30100|0||U1|MAX30100Ä£¿é|MAX30100|1
+STM32F103C8T6|0||U2|LQFP48|STM32F103C8T6|1
+AMS1117-3.3|0||U3|SOT-223|AMS1117-3.3|1
+CH340|0||U4|SOP16|CH340|1
+XTAL|0|Crystal Oscillator|XT1, XT2|HC-49S|XTAL|2
